@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+  <name>Cu Sidhe Hound of the Rim</name>
+  <author>Hubertdragon1</author>
+  <modDependencies>
+    </modDependencies>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>Hubertdragon1.CuSidhe</packageId>
+  <description>
+Adds an powerful hound that can be find in the temperate and cold regions of the Rimworld.
+
+&lt;size=24&gt;Features&lt;/size&gt;
+
+Adds an new beast that is based around the mythical hound of the Scottish folklore, the Cu Sidhe. This canine introduces something that has never been done before, an dog that does not live default 12 years but more. But also it’s an worthy adversary that you can tame, but beware it can also become an threat to your settlement if you either try to hunt it or having an failed attempt at taming it, so… yea enjoy this new big dog in your rimwolrd adventures
+
+&lt;size=24&gt;Issues&lt;/size&gt;
+
+There shouldn't be any, but if you think something balance wise should be changed, drop it in the comment section
+
+&lt;size=24&gt;FaQ&lt;/size&gt;
+Q: Will this work on an existing save?
+A: Yes
+
+Q: Giddy-Up compatible?
+A: Mayhaps, in the future.
+
+Q: Combat Extended compatible?
+A: Mayhaps, in the future.
+
+Q: Vanilla expanded genetics compatible?
+A: Mayhaps, in the future.
+
+&lt;size=24&gt;Plans for the future&lt;/size&gt;
+Potencial stat changes, maybe more compat with other mods, and fixes.
+
+&lt;size=24&gt;Compatibility&lt;/size&gt;
+Compatible with Alpha Biomes 
+Compatible with Regrowth series
+Compatible with Medieval Overhaul
+
+
+&lt;size=24&gt;Credit&lt;/size&gt;
+The creature textures: Anthitei 
+Coding and compatibility: AlexisPopcorn
+</description>
+
+</ModMetaData>
