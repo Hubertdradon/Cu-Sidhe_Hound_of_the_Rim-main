@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+
+	<v1.5>
+		<li>/</li>
+		<li>1.5</li>
+		<li IfModActive="sarg.alphabiomes">1.5/Mods/Alpha Biome</li>
+		<li IfModActive="ReGrowth.BOTR.Core">1.5/Mods/ReGrowth Core</li>
+		<li IfModActive="ReGrowth.BOTR.AspenForest">1.5/Mods/ReGrowth Core</li>
+		<li IfModActive="regrowth.BOTR.BoilingForest">1.5/Mods/ReGrowth Boiling</li>
+		<li IfModActive="dankpyon.medieval.overhaul">1.5/Mods/Medieval Overhaul</li>
+		<li IfModActive="vanillaexpanded.vgeneticse">1.6/Mods/Vanilla Genetic Expanded</li>
+	</v1.5>
+	
+	<v1.6>
+		<li>/</li>
+		<li>1.6</li>
+		<li IfModActive="sarg.alphabiomes">1.6/Mods/Alpha Biome</li>
+		<li IfModActive="dankpyon.medieval.overhaul">1.6/Mods/Medieval Overhaul</li>
+		<li IfModActive="ReGrowth.BOTR.Core">1.6/Mods/ReGrowth Core</li>
+		<li IfModActive="ReGrowth.BOTR.AspenForest">1.6/Mods/ReGrowth Core</li>
+		<li IfModActive="regrowth.BOTR.BoilingForest">1.6/Mods/ReGrowth Boiling</li>
+		<li IfModActive="vanillaexpanded.vgeneticse">1.6/Mods/Vanilla Genetic Expanded</li>
+	</v1.6>
+
+</loadFolders>
