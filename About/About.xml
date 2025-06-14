@@ -1,15 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <ModMetaData>
-  <name>Cu Sidhe Hound of the Rim</name>
-  <author>Hubertdragon1</author>
-  <modDependencies>
-    </modDependencies>
-  <supportedVersions>
-    <li>1.5</li>
-  </supportedVersions>
-  <packageId>Hubertdragon1.CuSidhe</packageId>
-  <description>
+	<name>Cu Sidhe Hound of the Rim</name>
+	<author>Hubertdragon1</author>
+	<modDependencies>
+	</modDependencies>
+	<supportedVersions>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>Hubertdragon1.CuSidhe</packageId>
+	<description>
 Adds an powerful hound that can be find in the temperate and cold regions of the Rimworld.
 
 &lt;size=24&gt;Features&lt;/size&gt;
@@ -45,6 +46,6 @@ Compatible with Medieval Overhaul
 &lt;size=24&gt;Credit&lt;/size&gt;
 The creature textures: Anthitei 
 Coding and compatibility: AlexisPopcorn
-</description>
+	</description>
 
 </ModMetaData>

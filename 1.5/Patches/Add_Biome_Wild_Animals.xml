@@ -1,0 +1,63 @@
+<Patch>
+
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/BiomeDef[defName="BorealForest"]/wildAnimals/CuSidhe</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/BiomeDef[defName="BorealForest"]/wildAnimals</xpath>
+			<value>
+				<CuSidhe>0.055</CuSidhe>
+			</value>
+		</nomatch>
+	</Operation>
+
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/BiomeDef[defName="TemperateForest"]/wildAnimals/CuSidhe</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/BiomeDef[defName="TemperateForest"]/wildAnimals</xpath>
+			<value>
+				<CuSidhe>0.055</CuSidhe>
+			</value>
+		</nomatch>
+	</Operation>
+	
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/BiomeDef[defName="SeaIce"]/wildAnimals/CuSidhe</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/BiomeDef[defName="SeaIce"]/wildAnimals</xpath>
+			<value>
+				<CuSidhe>0.001</CuSidhe>
+			</value>
+		</nomatch>
+	</Operation>
+	
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/BiomeDef[defName="Tundra"]/wildAnimals/CuSidhe</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/BiomeDef[defName="Tundra"]/wildAnimals</xpath>
+			<value>
+				<CuSidhe>0.067</CuSidhe>
+			</value>
+		</nomatch>
+	</Operation>
+	
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/BiomeDef[defName="TemperateSwamp"]/wildAnimals/CuSidhe</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/BiomeDef[defName="TemperateSwamp"]/wildAnimals</xpath>
+			<value>
+				<CuSidhe>0.044</CuSidhe>
+			</value>
+		</nomatch>
+	</Operation>
+	
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/BiomeDef[defName="IceSheet"]/wildAnimals/CuSidhe</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/BiomeDef[defName="IceSheet"]/wildAnimals</xpath>
+			<value>
+				<CuSidhe>0.018</CuSidhe>
+			</value>
+		</nomatch>
+	</Operation>
+
+</Patch>

@@ -1,0 +1,13 @@
+<Patch>
+
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/BiomeDef[defName="RG_TemperateGrassland"]/wildAnimals/CuSidhe</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/BiomeDef[defName="RG_TemperateGrassland"]/wildAnimals</xpath>
+			<value>
+				<CuSidhe>0.03</CuSidhe>
+			</value>
+		</nomatch>
+	</Operation>
+
+</Patch>
